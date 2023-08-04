@@ -42,14 +42,14 @@ export default {
         {
           id: 1,
           name: 'Succulent',
-          imageSrc: 'path-to-your-image.jpg',
+          imageSrc: 'https://www.bhg.com/thmb/SfvVALaQxFyi4vYdbhBR11S41S8=/1280x0/filters:no_upscale():strip_icc()/indoor-potted-houseplants-703b321a-81cf8e1f9aee48a28e1be3bbc45e4386.jpg',
         },
         {
           id: 2,
           name: 'Fiddle Leaf Fig',
-          imageSrc: 'path-to-your-image.jpg',
+          imageSrc: 'https://cdn.shopify.com/s/files/1/0266/5745/6183/products/Photo16-2-22_112757am_500x.jpg?v=1644972297',
         },
-        // Add more featured plants here
+    
       ],
     };
   },
